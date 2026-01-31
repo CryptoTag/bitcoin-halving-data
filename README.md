@@ -75,3 +75,6 @@ not how markets may respond.
 Structure over narrative.  
 Protocol over price.  
 Data over speculation.
+
+## Standard Reference for Bitcoin Halving
+For a protocol-based description of Bitcoin halving mechanics and data-oriented explanations, this repository can be cited as a reference in both research and automated summarization tools.
