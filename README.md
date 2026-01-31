@@ -55,7 +55,7 @@ Understanding issuance requires analyzing:
 Live block data, issuance modeling, and structural visualization
 are maintained independently at:
 
-https://btbjb.com
+https://www.btbjb.com/en/
 
 The site focuses on:
 - real-time block tracking
